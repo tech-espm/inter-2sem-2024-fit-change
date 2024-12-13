@@ -1,7 +1,7 @@
 # Projeto Interdisciplinar II - Sistemas de Informação ESPM
 
-<p style="text-align: center;">
-    <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://avatars.githubusercontent.com/u/49880458?s=200&v=4" alt="Sistemas de Informação ESPM" style="height: 200px; width: 200px;"/></a>
+<p align="center">
+    <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://raw.githubusercontent.com/tech-espm/misc-template/main/logo.png" alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
 </p>
 
 # Sistema de Controle de Dispensa
@@ -9,21 +9,39 @@
 ### 2024-01
 
 ## Integrantes
-- [Nome](https://github.com/nome/)
+- [André Alves](https://github.com/andre-alves77)
+- [Arthur Borba](https://github.com/Borba70)
+- [Enrico Comassetto Di Gioia](https://github.com/EnricoDiGioia)
+- [Luis Degaspari](https://github.com/LuisDegaspari)
+- [Luiz Fernando](https://github.com/LuizPazdziora)
 
 ## Descrição do Projeto
 
-### Problema
+No nosso trabalho para esse semestre vamos fazer um site sobre comparar os nutrientes
+das comidas, além de comparar com outras comidas vamos oferecer outros alimentos que
+podem substituir o seu prato do dia a dia.
 
-Problema
+O projeto integrado tem como objetivo facilitar às pessoas em sua escolha de suas
+refeições com dados baseados em nutrientes e diversificação de opções. Também será possível
+inserir pratos personalizados e compartilhar seus pratos criados.
 
-### Objetivo Final
+Com isso, ajudará as pessoas a conseguir substituir algum alimento específico por outro
+com a mesma quantidade de nutrientes e calorias, criando assim uma diversidade na dieta da
+própria. O projeto visa contribuir com a saúde e bem-estar dos usuários, informando e
+conscientizando as pessoas sobre o que elas comem, como elas comem e como podem melhorar
+a sua alimentação.
 
-Objetivo Final
+O projeto Fit Change tem como objetivo criar um site voltado para a comparação de
+nutrientes entre diferentes receitas alimentares. O foco principal é permitir que os usuários
+façam escolhas mais conscientes sobre sua alimentação, tendo à disposição informações
+detalhadas sobre calorias, proteínas, carboidratos e outros nutrientes das refeições. Além de
+comparar as receitas, o site também sugerirá substituições alimentares com base nos nutrientes,
+oferecendo alternativas que podem ser incluídas na rotina diária de forma saudável.
 
-### Principais Recursos
-
-Principais Recursos
+Outro recurso importante será a funcionalidade de personalização de pratos, permitindo
+que os usuários criem e compartilhem suas próprias receitas, promovendo uma alimentação
+mais variada e balanceada. Este projeto visa melhorar a saúde e o bem-estar dos usuários,
+incentivando hábitos alimentares saudáveis e diversificados.
 
 # Detalhes de Configuração
 
@@ -54,4 +72,8 @@ mysqldatabase=[NOME DO BANCO]
 
 # Licença
 
-Este projeto é licenciado sob a [MIT License](https://github.com/tech-espm/inter-2sem-2024-diet-control/blob/main/LICENSE).
+Este projeto é licenciado sob a [MIT License](https://github.com/tech-espm/inter-2sem-2024-fit-change/blob/main/LICENSE).
+
+<p align="right">
+    <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://raw.githubusercontent.com/tech-espm/misc-template/main/logo-si-512.png" alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
+</p>
